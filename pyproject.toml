@@ -1,9 +1,9 @@
 [project]
 name = "codex-coded-snake"
-version = "0.1.0"
+version = "0.1.1"
 description = "Retro Snake game with procedural audio"
 authors = [
-    {name = "Package Maintainer",email = "maintainer@example.com"}
+    {name = "GGN_2015",email = "neko@jlulug.org"}
 ]
 license = "MIT"
 readme = "README.md"
